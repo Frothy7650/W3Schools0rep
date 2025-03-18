@@ -1,0 +1,27 @@
+a:link {
+  color: mediumpurple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: mediumpurple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+body {
+    background-color: rgb(20, 20, 20);
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+  color: hotpink;
+    text-align: center;
+}
