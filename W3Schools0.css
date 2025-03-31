@@ -17,13 +17,13 @@ a:visited {
 }
 
 body {
-    background-color: rgb(20, 20, 20);
-    color: rgb(255, 255, 255);
+  background-color: rgb(20, 20, 20);
+  color: rgb(255, 255, 255);
 }
 
 h1 {
   color: hotpink;
-    text-align: center;
+  text-align: center;
 }
 
 body {
@@ -31,3 +31,22 @@ body {
   background-size: 10% 10%;
   background-repeat: no-repeat;
 }
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+  text-align: center;
+}
+
+abbr {
+  text-decoration: none;
+  border-bottom: none;
+}
+
+td, th {
+  border: none;
+  border-style: none;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: rgba(255, 255, 255, 0.25);}
